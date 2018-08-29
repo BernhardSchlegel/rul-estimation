@@ -8,4 +8,4 @@
      urldate = {2018-07-16}
     }
 
-This code will not run "as is" but is supposed to be an insspiration.
+This code will not run "as is" but is supposed to be an inspiration.
